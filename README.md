@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Ben. 👋
+
+👨‍💻 College Student | Computer Engineering Major  
+📍 Studying at Mahidol International College, Bangkok, Thailand  
+🔧 Passionate about software development, system architecture, and coding challenges  
+🎯 Focused on expanding my knowledge in programming, AI, and web development  
+
+
 
 <!--
 **GuntawitBen/GuntawitBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
